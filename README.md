@@ -22,8 +22,10 @@ pip3 install -r requirements.txt
 
 [Journal] (https://arxiv.org/abs/1712.06957)
 
+
 ---
 - Lumbar vertebra segmentation CT image database
+
 ![Lumbar vertebra segmentation CT image database](./assets/title/DatabaseVertebraSegmentation.jpg)
 
 
